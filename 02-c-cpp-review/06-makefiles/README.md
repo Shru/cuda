@@ -72,3 +72,10 @@ clean:
 $ make clean
 $
 ```
+
+## To run the code using Makefile, use the following command: `make target`
+For example:
+
+``` Makefile
+$ make 01
+```
